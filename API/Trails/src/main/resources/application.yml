@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:5227/Trails
+    username: root
+    password: 1a250ZZ95
+
+
+okta:
+  oauth2:
+    issuer: https://dev-wrc5jgd4sya8uai4.us.auth0.com/
+    client-id: oAZHykpAm70dKYcWE8yF2dx5bQIsQKtB
+    client-secret: 3dhPjyd8RMTFoiREBIF9PT6HkyCj_HbFa5cvWodQ35fm4aVXYCOGScv12QE2QOfs
+server:
+  port: 3000
+  
